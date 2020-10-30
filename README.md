@@ -7,3 +7,5 @@
 7. lmplot 그래프
 8. facetGrid
 9. 특정 컬럼을 기준으로 행, 열을 각각 분리하여 그래프 출력
+
+개발환경: python3.6.7(32bit), Windows 10
